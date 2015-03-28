@@ -1,0 +1,27 @@
+Reading List Summary 2015
+========================
+
+* finished: 11
+* ongoing: 
+* blocked: 
+
+## Literature, History & Social Science
+1. **《眠》** 2013, rating 4.5/5.0 村上春树
+2. **《千纸鹤》** 2013, 4.5/4.5 川端康成
+3. **《1984》** 2013，rating 5.0/5.0 George Orwell
+4. **《族长的秋天》** 2014  加西亚马尔克斯
+
+## Science & Technology, Philosopy
+5. **《伟大的博弈》** (***The Great Game***) 2013, Rating 4.5/5.0  John Steele Gordon
+
+## Technical
+6. ***Programming Clojure*** 2010, Rating 4.5/5.0 Stuart Halloway, Aaron Bedra 
+7. ***Clojure Programming*** 2012, Rating 4.0/5.0 Chas Emerick, Brain Varper, Christophe Grand
+8. ***Thinking in Java***, 2006, 4th Edition, 4.5/5.0 Bruce Eckel 
+9. ***Beginning Python***-*from novice to professional*, 2009, 4.0/5.0 Magnus Lie Hetland
+10. ***Machine Learning for Hackers*** 2013, 4.0/5.0 Drew Conway, John White
+11. ***Advanced Programming in the Unix Environment*** 2013, 5.0/5.0 W.Richard Stevens, Stephen A. Rago 
+
+# Blocked
+
+# Ongoing
