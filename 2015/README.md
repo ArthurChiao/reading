@@ -1,15 +1,17 @@
 Reading List Summary 2015
 ========================
 
-* finished: 11
+* finished: 19
 * ongoing: 
 * blocked: 
 
 ## Literature, History & Social Science
-1. **《眠》** 2013, rating 4.5/5.0 村上春树
-2. **《千纸鹤》** 2013, 4.5/4.5 川端康成
-3. **《1984》** 2013，rating 5.0/5.0 George Orwell
+1. **《眠》** , rating 4.5/5.0 村上春树
+2. **《千纸鹤》** 1952, 4.5/4.5 川端康成
+3. **《1984》** 1949，rating 5.0/5.0 George Orwell
 4. **《族长的秋天》** 2014  加西亚马尔克斯
+5. **《曾文正公家书》** 1830~1872, 5.0/5.0
+7. **《双城记》** (***A Tale of Two Cities***), 1859, 5.0/5.0
 
 ## Science & Technology, Philosopy
 5. **《伟大的博弈》** (***The Great Game***) 2013, Rating 4.5/5.0  John Steele Gordon
@@ -21,7 +23,19 @@ Reading List Summary 2015
 9. ***Beginning Python***-*from novice to professional*, 2009, 4.0/5.0 Magnus Lie Hetland
 10. ***Machine Learning for Hackers*** 2013, 4.0/5.0 Drew Conway, John White
 11. ***Advanced Programming in the Unix Environment*** 2013, 5.0/5.0 W.Richard Stevens, Stephen A. Rago 
+12. ***Python Cookbook***, 4.5
+13. ***HTTP: the Definitive Guide***, 4.5
+14. ***The Docker Book***, 3.5
+15. ***Functional Programming in Python***, 4.0
+16. ***RESTful Web APIs***, 4.0/5.0
+6. ***Refactoring: improving the design of existing code***, 2010, 4.0/5.0
+7. ***The Pragmatic Programmer*** from Journeyman to Master, 2011
 
 # Blocked
 
 # Ongoing
+
+# By Quater
+- [2015 Q1](2015_Q1.md)
+- [2015 Q2](2015_Q2.md)
+- [2015 Q3](2015_Q3.md)
