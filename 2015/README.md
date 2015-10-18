@@ -1,7 +1,7 @@
 Reading List Summary 2015
 ========================
 
-* finished: 31
+* finished: 33
 * ongoing: 
 * blocked: 
 
@@ -22,6 +22,8 @@ Reading List Summary 2015
 
 7. **《双城记》** (***A Tale of Two Cities***), 1859, 5.0/5.0
 
+8. **《失乐园》**, 4.5/5.0
+
 
 ## Science & Technology, Philosopy
 5. **《伟大的博弈》** (***The Great Game***) 2013, Rating 4.5/5.0  John Steele Gordon
@@ -29,6 +31,8 @@ Reading List Summary 2015
 3. ***Shop Class as Soulcraft***, 4.0/5.0
 
 4. ***The Economics of Public Issues***, 4.5/5.0
+
+1. **《数学之美》** (***Beauty of Mathematics***), 4.5/5.0
 
 
 ## Technical
