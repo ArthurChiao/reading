@@ -1,7 +1,7 @@
 Reading List Summary 2015
 ========================
 
-* finished: 33
+* finished: 35
 * ongoing: 
 * blocked: 
 
@@ -76,11 +76,15 @@ Reading List Summary 2015
 
 8. ***Learn You Some Erlang for Great Good***, 2013, 4.5/5.0
 
+1. ***Learn You A Haskell for Great Good***, 4.5/5.0
+
+1. ***ZeroMQ: Messaging for Many Applications***, 5.0/5.0
+
 # Blocked
 
 # Ongoing
 
-# By Quater
+# By Quarter
 - [2015 Q1](2015_Q1.md)
 - [2015 Q2](2015_Q2.md)
 - [2015 Q3](2015_Q3.md)
