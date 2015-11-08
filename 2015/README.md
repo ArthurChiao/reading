@@ -1,7 +1,7 @@
 Reading List Summary 2015
 ========================
 
-* finished: 35
+* finished: 37
 * ongoing: 
 * blocked: 
 
@@ -23,6 +23,8 @@ Reading List Summary 2015
 7. **《双城记》** (***A Tale of Two Cities***), 1859, 5.0/5.0
 
 8. **《失乐园》**, 4.5/5.0
+
+1. **《浮躁》**, 4.0/5.0
 
 
 ## Science & Technology, Philosopy
@@ -79,6 +81,8 @@ Reading List Summary 2015
 1. ***Learn You A Haskell for Great Good***, 4.5/5.0
 
 1. ***ZeroMQ: Messaging for Many Applications***, 5.0/5.0
+
+1. ***The Architecture of Open Source Applications***, 4.0/5.0
 
 # Blocked
 
