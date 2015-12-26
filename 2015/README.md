@@ -30,9 +30,9 @@ Reading List Summary 2015
 ## Science & Technology, Philosopy
 5. **《伟大的博弈》** (***The Great Game***) 2013, Rating 4.5/5.0  John Steele Gordon
 
-3. ***Shop Class as Soulcraft***, 4.0/5.0
+3. **《摩托车修理店的未来工作哲学》** (***Shop Class as Soulcraft***), 4.0/5.0
 
-4. ***The Economics of Public Issues***, 4.5/5.0
+4. **《公共问题经济学》** (***The Economics of Public Issues***), 4.5/5.0
 
 1. **《数学之美》** (***Beauty of Mathematics***), 4.5/5.0
 
@@ -46,9 +46,9 @@ Reading List Summary 2015
 
 9. ***Beginning Python***-*from novice to professional*, 2009, 4.0/5.0 Magnus Lie Hetland
 
-10. ***Machine Learning for Hackers*** 2013, 4.0/5.0 Drew Conway, John White
+1. ***Machine Learning for Hackers*** 2013, 4.0/5.0 Drew Conway, John White
 
-11. ***Advanced Programming in the Unix Environment*** 2013, 5.0/5.0 W.Richard Stevens, Stephen A. Rago 
+1. ***Advanced Programming in the Unix Environment*** 2013, 5.0/5.0 W.Richard Stevens, Stephen A. Rago 
 
 5. ***Professional Linux Kernel Architecutre***, 5.0/5.0
 
@@ -58,19 +58,19 @@ Reading List Summary 2015
 
 8. ***Design Pattern*** 4.5/5.0
 
-9. ***AWS云端企业实战圣经:亚马逊如何构造云端计算*** 4.0/5.0
+9. **AWS云端企业实战圣经:亚马逊如何构造云端计算** 4.0/5.0
 
-10. ***The Cathedral and the Bazaar*** 5.0/5.0
+1. ***The Cathedral and the Bazaar*** 5.0/5.0
 
-12. ***Python Cookbook***, 4.5
+1. ***Python Cookbook***, 4.5
 
-13. ***HTTP: the Definitive Guide***, 4.5
+1. ***HTTP: the Definitive Guide***, 4.5
 
-14. ***The Docker Book***, 3.5
+1. ***The Docker Book***, 3.5
 
-15. ***Functional Programming in Python***, 4.0
+1. ***Functional Programming in Python***, 4.0
 
-16. ***RESTful Web APIs***, 4.0/5.0
+1. ***RESTful Web APIs***, 4.0/5.0
 
 6. ***Refactoring: improving the design of existing code***, 2010, 4.0/5.0
 

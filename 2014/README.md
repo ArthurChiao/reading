@@ -14,7 +14,7 @@ Reading List Summary 2014 (Q2~Q4)
 
 4. **《这一次我只聊真话》** 2014 李敖
 
-5. **《德川家康*霸王之家》** 2013 司马辽太郎 <br/>
+5. **《德川家康*霸王之家》** 2013 司马辽太郎
 
 6. **包容的智慧**, 2007 星云大师，刘长乐
 
@@ -22,11 +22,11 @@ Reading List Summary 2014 (Q2~Q4)
 
 8. **《三十六大》**, 2012 冯唐
 
-9. **《活着》** (***To Live***, a Yu Hua's novel), 4.5/5.0 余华 <br/>
+9. **《活着》** (***To Live***, a Yu Hua's novel), 4.5/5.0 余华
 
-10. **《乌克兰拖拉机简史》** ***(A Short History of Tractors in Ukrainian)***，2014, rating 4.5/5 玛琳娜*柳薇卡<br/>
+1. **《乌克兰拖拉机简史》** ***(A Short History of Tractors in Ukrainian)***，2014, rating 4.5/5 玛琳娜*柳薇卡
 
-11. **《解忧杂货店》**，2014, rating 3.5/5.0 东野圭吾 <br/>
+1. **《解忧杂货店》**，2014, rating 3.5/5.0 东野圭吾
 
 ## Science & Technology, Philosopy
 12. ***The World Is Flat*** 2010, Rating 4.5/5.0 Thomas L.Friedman
@@ -63,3 +63,8 @@ Reading List Summary 2014 (Q2~Q4)
 26. ***Hadoop: the Definitive Guide***, 2012 Tom White
 
 27. ***Clojure Programming*** Chas Emerick, Brian Carper, Christophe Grand
+
+# By Quarter
+- [2014 Q2](2014_Q2.md)
+- [2014 Q3](2014_Q3.md)
+- [2014 Q4](2014_Q4.md)
