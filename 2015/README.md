@@ -1,9 +1,9 @@
 Reading List Summary 2015
 ========================
 
-* finished: 37
-* ongoing: 
-* blocked: 
+* finished: 41
+* ongoing:
+* blocked:
 
 ## Literature, History & Social Science
 1. **《眠》** , rating 4.5/5.0 村上春树
@@ -26,6 +26,14 @@ Reading List Summary 2015
 
 1. **《浮躁》**, 4.0/5.0
 
+1. **《威尼斯商人》** (***The Merchant of Venice***), 4.5/5.0, Shakespeare
+
+1. **《吝啬鬼》** (***The Miser***), 5.0/5.0, Moliere
+
+1. **《死魂灵》** (***Dead Souls***), 4.5/5.0, Gogol
+
+1. **《欧也妮葛朗台》** (***Eugenie Grandet***), 5.0/5.0, Balzac
+
 
 ## Science & Technology, Philosopy
 5. **《伟大的博弈》** (***The Great Game***) 2013, Rating 4.5/5.0  John Steele Gordon
@@ -38,17 +46,17 @@ Reading List Summary 2015
 
 
 ## Technical
-6. ***Programming Clojure*** 2010, Rating 4.5/5.0 Stuart Halloway, Aaron Bedra 
+6. ***Programming Clojure*** 2010, Rating 4.5/5.0 Stuart Halloway, Aaron Bedra
 
 7. ***Clojure Programming*** 2012, Rating 4.0/5.0 Chas Emerick, Brain Varper, Christophe Grand
 
-8. ***Thinking in Java***, 2006, 4th Edition, 4.5/5.0 Bruce Eckel 
+8. ***Thinking in Java***, 2006, 4th Edition, 4.5/5.0 Bruce Eckel
 
 9. ***Beginning Python***-*from novice to professional*, 2009, 4.0/5.0 Magnus Lie Hetland
 
 1. ***Machine Learning for Hackers*** 2013, 4.0/5.0 Drew Conway, John White
 
-1. ***Advanced Programming in the Unix Environment*** 2013, 5.0/5.0 W.Richard Stevens, Stephen A. Rago 
+1. ***Advanced Programming in the Unix Environment*** 2013, 5.0/5.0 W.Richard Stevens, Stephen A. Rago
 
 5. ***Professional Linux Kernel Architecutre***, 5.0/5.0
 
