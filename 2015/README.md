@@ -14,17 +14,17 @@ Reading List Summary 2015
 
 4. **《族长的秋天》** 2014  加西亚马尔克斯
 
-1. **《张晓风散文精选》** 2011, 4.5/5.0
+1. **《张晓风散文精选》** 2011, 4.5/5.0, 张晓风
 
-2. **《家》** 2013, 4.0/5.0
+2. **《家》** 2013, 4.0/5.0, 巴金
 
 5. **《曾文正公家书》** 1830~1872, 5.0/5.0
 
-7. **《双城记》** (***A Tale of Two Cities***), 1859, 5.0/5.0
+7. **《双城记》** (***A Tale of Two Cities***), 1859, 5.0/5.0, Chales Dickens
 
-8. **《失乐园》**, 4.5/5.0
+8. **《失乐园》**, 4.5/5.0, 渡边淳一
 
-1. **《浮躁》**, 4.0/5.0
+1. **《浮躁》**, 4.0/5.0, 贾平凹
 
 1. **《威尼斯商人》** (***The Merchant of Venice***), 4.5/5.0, Shakespeare
 
@@ -42,7 +42,7 @@ Reading List Summary 2015
 
 4. **《公共问题经济学》** (***The Economics of Public Issues***), 4.5/5.0
 
-1. **《数学之美》** (***Beauty of Mathematics***), 4.5/5.0
+1. **《数学之美》** (***Beauty of Mathematics***), 4.5/5.0, 吴军
 
 
 ## Technical
@@ -80,7 +80,7 @@ Reading List Summary 2015
 
 1. ***RESTful Web APIs***, 4.0/5.0
 
-6. ***Refactoring: improving the design of existing code***, 2010, 4.0/5.0
+6. ***Refactoring: Improving the Design of Existing Code***, 2010, 4.0/5.0
 
 7. ***The Pragmatic Programmer*** from Journeyman to Master, 2011
 
