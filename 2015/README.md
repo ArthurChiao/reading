@@ -1,4 +1,4 @@
-Reading List Summary 2015
+Reading List 2015
 ========================
 
 * finished: 41

@@ -1,4 +1,4 @@
-Reading List Summary 2014 (Q2~Q4)
+Reading List 2014 (Q2~Q4)
 ========================
 
 * finished: 23
