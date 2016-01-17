@@ -6,9 +6,11 @@ Reading List 2016
 * blocked:
 
 ## Literature, History & Social Science
+1. **《为奴十二年》** (***Twelve Years A Slave***), 4.0/5.0
 
 
 ## Science & Technology, Philosopy
+1. **《从0到1》** (***Zero to One***: Notes on Startups, or How to Build the Future), 4.5/5.0
 
 
 ## Technical
