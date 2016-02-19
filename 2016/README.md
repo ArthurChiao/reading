@@ -16,6 +16,7 @@ Reading List 2016
 
 
 ## Technical
+1. ***Programming in Go***, 4.5/5.0
 
 # Blocked
 
