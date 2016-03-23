@@ -1,7 +1,7 @@
 Reading List 2016
 ========================
 
-* finished: 5
+* finished: 6
 * ongoing:
 * blocked:
 
@@ -19,6 +19,8 @@ Reading List 2016
 1. ***Programming in Go***, 4.5/5.0
 
 1. ***Programming in Lua***, 4.5/5.0
+
+1. ***Openstack Operations Guide***, 3.5/5.0
 
 # Blocked
 
