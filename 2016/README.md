@@ -1,7 +1,7 @@
 Reading List 2016
 ========================
 
-* finished: 6
+* finished: 7
 * ongoing:
 * blocked:
 
@@ -21,6 +21,8 @@ Reading List 2016
 1. ***Programming in Lua***, 4.5/5.0
 
 1. ***Openstack Operations Guide***, 3.5/5.0
+
+1. ***KVM虚拟化技术***, 4.0/5.0
 
 # Blocked
 
