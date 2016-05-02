@@ -1,7 +1,7 @@
 Reading List 2016
 ========================
 
-* finished: 8
+* finished: 9
 * ongoing:
 * blocked:
 
@@ -11,6 +11,8 @@ Reading List 2016
 1. **《生如夏花 - 泰戈尔经典诗选》** (***The Crescent Moon*** + ***Stray Birds***), 4.5/5.0
 
 1. ***Flipped***, (**《怦然心动》**) 5.0/5.0
+
+1. **《追风筝的人》** (***Kite Runner***), 5.0/5.0
 
 ## Science & Technology, Philosopy
 1. **《从0到1》** (***Zero to One***: Notes on Startups, or How to Build the Future), 4.5/5.0
