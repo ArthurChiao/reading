@@ -1,7 +1,7 @@
 Reading List 2016
 ========================
 
-* finished: 9
+* finished: 12
 * ongoing:
 * blocked:
 
@@ -14,8 +14,12 @@ Reading List 2016
 
 1. **《追风筝的人》** (***Kite Runner***), 5.0/5.0
 
+1. **《古典音乐的巨匠时代》** 4.0/5.0
+
 ## Science & Technology, Philosopy
 1. **《从0到1》** (***Zero to One***: Notes on Startups, or How to Build the Future), 4.5/5.0
+
+1. **《胡希恕金匮要略讲座》** 4.5/5.0
 
 
 ## Technical
@@ -26,6 +30,8 @@ Reading List 2016
 1. ***Openstack Operations Guide***, 3.5/5.0
 
 1. ***KVM虚拟化技术***, 4.0/5.0
+
+1. ***Programming PHP***, 4.5/5.0
 
 # Blocked
 
