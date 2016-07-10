@@ -1,7 +1,7 @@
 Reading List 2016
 ========================
 
-* finished: 12
+* finished: 13
 * ongoing:
 * blocked:
 
@@ -20,6 +20,8 @@ Reading List 2016
 1. **《从0到1》** (***Zero to One***: Notes on Startups, or How to Build the Future), 4.5/5.0
 
 1. **《胡希恕金匮要略讲座》** 4.5/5.0
+
+1. **《影响力(经典版)》** (***Influence***: The Phychology of Persuasion), 4.5/5.0
 
 
 ## Technical
