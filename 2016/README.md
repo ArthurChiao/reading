@@ -1,7 +1,7 @@
 Reading List 2016
 ========================
 
-* finished: 14
+* finished: 15
 * ongoing:
 * blocked:
 
@@ -36,6 +36,8 @@ Reading List 2016
 1. ***KVM虚拟化技术***, 4.0/5.0
 
 1. ***Programming PHP***, 4.5/5.0
+
+1. ***RabbitMQ In Action***, 4.0/5.0
 
 # Blocked
 
