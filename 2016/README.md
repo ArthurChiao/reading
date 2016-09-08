@@ -1,7 +1,7 @@
 Reading List 2016
 ========================
 
-* finished: 16
+* finished: 18
 * ongoing:
 * blocked:
 
@@ -40,6 +40,10 @@ Reading List 2016
 1. ***Programming PHP***, 4.5/5.0
 
 1. ***RabbitMQ In Action***, 4.0/5.0
+
+1. ***500 Lines or Less***, 5.0/5.0
+
+1. ***Learning Python***, 4.0/5.0
 
 # Blocked
 
