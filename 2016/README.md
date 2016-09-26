@@ -1,7 +1,7 @@
 Reading List 2016
 ========================
 
-* finished: 18
+* finished: 19
 * ongoing:
 * blocked:
 
@@ -27,6 +27,7 @@ Reading List 2016
 
 1. **《影响力(经典版)》** (***Influence***: The Phychology of Persuasion), 4.5/5.0
 
+1. **《21世纪资本论》** (***Capital***: in 21st Century), 4.5/5.0
 
 ## Technical
 1. ***Programming in Go***, 4.5/5.0
