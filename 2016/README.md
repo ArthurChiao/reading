@@ -1,7 +1,7 @@
 Reading List 2016
 ========================
 
-* finished: 18
+* finished: 24
 * ongoing:
 * blocked:
 
@@ -20,6 +20,10 @@ Reading List 2016
 
 1. **《二手时间》** 4.5/5.0
 
+1. **《人生心得贴: 怎样突破命运中的困境》** 4.0/5.0
+
+1. **《工作心得贴: 发现和积累你的优势》** 4.0/5.0
+
 ## Science & Technology, Philosopy
 1. **《从0到1》** (***Zero to One***: Notes on Startups, or How to Build the Future), 4.5/5.0
 
@@ -27,6 +31,7 @@ Reading List 2016
 
 1. **《影响力(经典版)》** (***Influence***: The Phychology of Persuasion), 4.5/5.0
 
+1. **《21世纪资本论》** (***Capital***: in 21st Century), 4.5/5.0
 
 ## Technical
 1. ***Programming in Go***, 4.5/5.0
@@ -44,6 +49,12 @@ Reading List 2016
 1. ***500 Lines or Less***, 5.0/5.0
 
 1. ***Learning Python***, 4.0/5.0
+
+1. ***Linux Device Drivers***, 4.0/5.0
+
+1. ***Docker Networking and Service Discovery***, 4.5/5.0
+
+1. ***Deploying OpenStack***, 4.0/5.0
 
 # Blocked
 
