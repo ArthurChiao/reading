@@ -1,7 +1,7 @@
 Reading List 2016
 ========================
 
-* finished: 19
+* finished: 20
 * ongoing:
 * blocked:
 
@@ -45,6 +45,8 @@ Reading List 2016
 1. ***500 Lines or Less***, 5.0/5.0
 
 1. ***Learning Python***, 4.0/5.0
+
+1. ***Docker Networking and Service Discovery***, 4.5/5.0
 
 # Blocked
 
