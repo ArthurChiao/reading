@@ -56,6 +56,7 @@ Reading List 2016
 
 1. ***Deploying OpenStack***, 4.0/5.0
 
+
 # Blocked
 
 # Ongoing
