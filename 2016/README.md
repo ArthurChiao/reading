@@ -1,7 +1,7 @@
 Reading List 2016
 ========================
 
-* finished: 24
+* finished: 25
 * ongoing:
 * blocked:
 
@@ -23,6 +23,8 @@ Reading List 2016
 1. **《人生心得贴: 怎样突破命运中的困境》** 4.0/5.0
 
 1. **《工作心得贴: 发现和积累你的优势》** 4.0/5.0
+
+1. **《经营心得贴: 在不确定的世界坚实发展》** 4.0/5.0
 
 ## Science & Technology, Philosopy
 1. **《从0到1》** (***Zero to One***: Notes on Startups, or How to Build the Future), 4.5/5.0
