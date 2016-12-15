@@ -1,7 +1,7 @@
 Reading List 2016
 ========================
 
-* finished: 25
+* finished: 27
 * ongoing:
 * blocked:
 
@@ -26,6 +26,8 @@ Reading List 2016
 
 1. **《经营心得贴: 在不确定的世界坚实发展》** 4.0/5.0
 
+1. **《约翰克里斯朵夫》** (***Jean Christophe***), 4.5/5.0
+
 ## Science & Technology, Philosopy
 1. **《从0到1》** (***Zero to One***: Notes on Startups, or How to Build the Future), 4.5/5.0
 
@@ -34,6 +36,8 @@ Reading List 2016
 1. **《影响力(经典版)》** (***Influence***: The Phychology of Persuasion), 4.5/5.0
 
 1. **《21世纪资本论》** (***Capital***: in 21st Century), 4.5/5.0
+
+1. **《纳什均衡与博弈论》** (***A Beautiful Math***), 4.5/5.0
 
 ## Technical
 1. ***Programming in Go***, 4.5/5.0
