@@ -1,7 +1,7 @@
 Reading List 2016
 ========================
 
-* finished: 27
+* finished: 29
 * ongoing:
 * blocked:
 
@@ -38,6 +38,10 @@ Reading List 2016
 1. **《21世纪资本论》** (***Capital***: in 21st Century), 4.5/5.0
 
 1. **《纳什均衡与博弈论》** (***A Beautiful Math***), 4.5/5.0
+
+1. **《断舍离》** (a book about minimalism), 4.0/5.0
+
+1. **《简单的艺术》** (The Art of Living A Simple Life), 3.8/5.0
 
 ## Technical
 1. ***Programming in Go***, 4.5/5.0
