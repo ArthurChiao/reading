@@ -1,7 +1,7 @@
 Reading List 2016
 ========================
 
-* finished: 29
+* finished: 30
 * ongoing:
 * blocked:
 
@@ -26,7 +26,7 @@ Reading List 2016
 
 1. **《经营心得贴: 在不确定的世界坚实发展》** 4.0/5.0
 
-1. **《约翰克里斯朵夫》** (***Jean Christophe***), 4.5/5.0
+1. **《约翰克里斯朵夫 (上)》** (***Jean Christophe***), 4.5/5.0
 
 ## Science & Technology, Philosopy
 1. **《从0到1》** (***Zero to One***: Notes on Startups, or How to Build the Future), 4.5/5.0
@@ -41,7 +41,9 @@ Reading List 2016
 
 1. **《断舍离》** (a book about minimalism), 4.0/5.0
 
-1. **《简单的艺术》** (The Art of Living A Simple Life), 3.8/5.0
+1. **《简单的艺术》** (***lart de la simplicite***), 3.8/5.0
+
+1. **《最重要的事情，只有一件》** (***The One Thing***), 4.0/5.0
 
 ## Technical
 1. ***Programming in Go***, 4.5/5.0
