@@ -10,6 +10,7 @@ Reading List 2017
 ## Science & Technology, Philosopy
 
 ## Technical
+1. ***CSS: The Definitive Guide***
 
 
 # Blocked
