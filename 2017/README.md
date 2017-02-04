@@ -6,6 +6,7 @@ Reading List 2017
 * blocked:
 
 ## Literature, History & Social Science
+1. **《罪与罚》** (***Crime and Punishment***) 4.5/5.0
 
 ## Science & Technology, Philosopy
 
