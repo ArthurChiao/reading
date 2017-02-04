@@ -6,53 +6,53 @@ Reading List 2014 (Q2~Q4)
 * blocked: 2
 
 ## Literature, History & Social Science
-1. **《我所理解的生活》** 2013, rating 4.0/5.0  韩寒
+1. **《我所理解的生活》** 4.0/5.0
 
-2. **《洛丽塔》** ***(Lolita)*** 2005 Vladimir Nabokov
+2. **《洛丽塔》** ***(Lolita)***
 
-3. **《我们仨》** 2013，rating 4.5/5.0 杨绛
+3. **《我们仨》** 4.5/5.0
 
-4. **《这一次我只聊真话》** 2014 李敖
+4. **《这一次我只聊真话》**
 
-5. **《德川家康*霸王之家》** 2013 司马辽太郎
+5. **《德川家康 * 霸王之家》**
 
-6. **包容的智慧**, 2007 星云大师，刘长乐
+1. **包容的智慧**, 4.0/5.0
 
-7. ***The Great Gasby***，2013 Francis Scott Fitzgerald
+1. ***The Great Gasby*** 4.5/5.0
 
-8. **《三十六大》**, 2012 冯唐
+1. **《三十六大》** 4.0/5.0
 
-9. **《活着》** (***To Live***, a Yu Hua's novel), 4.5/5.0 余华
+1. **《活着》** (***To Live***, a Yu Hua's novel), 5.0/5.0
 
-1. **《乌克兰拖拉机简史》** ***(A Short History of Tractors in Ukrainian)***，2014, rating 4.5/5 玛琳娜*柳薇卡
+1. **《乌克兰拖拉机简史》** ***(A Short History of Tractors in Ukrainian)*** 4.5/5
 
-1. **《解忧杂货店》**，2014, rating 3.5/5.0 东野圭吾
+1. **《解忧杂货店》** 3.5/5.0
 
 ## Science & Technology, Philosopy
-12. ***The World Is Flat*** 2010, Rating 4.5/5.0 Thomas L.Friedman
+6. ***The World Is Flat***, 4.5/5.0
 
-13. ***The Black Swan: the impact of the highly impossible*** 2011, Rating 5.0/5.0 Nassim Nicholas Taleb <br/>
+7. ***The Black Swan: the impact of the highly impossible*** 5.0/5.0
 
-14. ***Hackers and Painters***, Rating 4.5/5.0 Paul Graham
+1. ***Hackers and Painters*** 4.5/5.0
 
-15. **《技术元素》** (***Technium***) Kevin Kelly
+1. **《技术元素》** (***Technium***)
 
-16. ***Zen and the Art of Motorcycle Maintenance***, 2011, 5.0/5.0 Robert M.Pirsig <br/>
+1. ***Zen and the Art of Motorcycle Maintenance***, 5.0/5.0
 
 ## Technical
-17. **《鸟哥的linux私房菜》** 2010, Rating 4.0/5.0 <br/>
+8. **《鸟哥的linux私房菜》** 4.0/5.0
 
-18. ***Using OpenMP: Portable Shared Memory Programming***, 2007 David J. Kuck, Barbara Chapman
+9. ***Using OpenMP: Portable Shared Memory Programming***
 
-19. ***Beginning Linux Programming*** 2010 Neil Mathew, Richard Stones
+10. ***Beginning Linux Programming***
 
-20. ***SAE and the Evolved Packet Core***, 2009 Magnus Olsson, Shabnam Sultana, Stefan Rommer, Lars Frid, Catherine Mulligan
+1. ***SAE and the Evolved Packet Core***
 
-21. ***Understanding Linux Network Internals*** Chirstian Benvenuti
+1. ***Understanding Linux Network Internals***, 4.5/5.0
 
-22. ***Code Complete*** Steve McConnell
+1. ***Code Complete*** 4.5/5.0
 
-23. ***ANSI Common Lisp*** Paul Graham
+1. ***ANSI Common Lisp*** 4.5/5.0
 
 # Blocked
 24. ***Debugging Using GDB: the GNU Source-Level Debugger***, Ninth Edition, for GDB version 7.3.50.20110612 Richard Stallman, et, al
