@@ -1,16 +1,20 @@
 Reading List 2017
 ========================
 
-* finished:
+* finished: 2
 * ongoing:
 * blocked:
 
 ## Literature, History & Social Science
+
 1. **《罪与罚》** (***Crime and Punishment***) 4.5/5.0
 
 ## Science & Technology, Philosopy
 
+1. **《道德情操论》** (***The Theory of Moral Sentiments***) 5.0/5.0, (this translation edition 4.9/5.0)
+
 ## Technical
+
 1. ***CSS: The Definitive Guide***
 
 
