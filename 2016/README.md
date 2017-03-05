@@ -62,7 +62,7 @@ Reading List 2016
 
 1. ***Learning Python***, 4.0/5.0
 
-1. ***Linux Device Drivers***, 4.0/5.0
+1. ***Linux Device Drivers***, 4.5/5.0
 
 1. ***Docker Networking and Service Discovery***, 4.5/5.0
 

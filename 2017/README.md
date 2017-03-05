@@ -1,7 +1,7 @@
 Reading List 2017
 ========================
 
-* finished: 2
+* finished: 4
 * ongoing:
 * blocked:
 
@@ -12,6 +12,8 @@ Reading List 2017
 ## Science & Technology, Philosopy
 
 1. **《道德情操论》** (***The Theory of Moral Sentiments***) 5.0/5.0, (this translation edition 4.9/5.0)
+
+1. **《旧制度与大革命》** (***Lancien Regime Et La Revolution***), 4.5/5.0
 
 ## Technical
 
