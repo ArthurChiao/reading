@@ -1,11 +1,13 @@
 Reading List 2017
 ========================
 
-* finished: 4
+* finished: 5
 * ongoing:
 * blocked:
 
 ## Literature, History & Social Science
+
+1. **《偷影子的人》**  (***Le voleur d'ombres***) 4.8/5.0
 
 1. **《罪与罚》** (***Crime and Punishment***) 4.5/5.0
 
