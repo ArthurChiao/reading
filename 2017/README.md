@@ -1,7 +1,7 @@
 Reading List 2017
 ========================
 
-* finished: 7
+* finished: 10
 * ongoing:
 * blocked:
 
@@ -21,9 +21,15 @@ Reading List 2017
 
 1. **《菊与刀(70周年纪念版) 》**  (***The Chrysanthemum And The Sword***) 5.0/5.0
 
+1. **《乌合之众:群体心理研究》**  (***Psychologie Des Foules***), 4.5/5.0
+
 ## Technical
 
 1. ***CSS: The Definitive Guide***
+
+1. ***JavaScript: The Definitive Guide*** (4.2/5.0, this translation edition 3.9/5.0)
+
+1. ***Falsk Web Development***, 4.0/5.0
 
 
 # Blocked
