@@ -7,11 +7,11 @@ if [ $# -lt 1 ]; then
 fi
 
 FILE=$1
-total_books=`grep -F "1. " $FILE | wc -l`
+total_books=`grep "^1. " $FILE | wc -l`
 
 echo "================================================"
 echo "Total $total_books books:"
 
 echo "=====================Books======================"
-grep -F "1. " $FILE
+grep "^1. " $FILE
 echo "================================================"
