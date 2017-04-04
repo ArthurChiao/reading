@@ -1,7 +1,7 @@
 Reading List 2017
 ========================
 
-* finished: 10
+* finished: 12
 * ongoing:
 * blocked:
 
@@ -12,6 +12,8 @@ Reading List 2017
 1. **《偷影子的人》**  (***Le voleur d'ombres***) 4.8/5.0
 
 1. **《小王子》**  (***The Little Prince***) 4.5/5.0
+
+1. **《多余的话》**  (***The Superfluous Words***, by Qiubai Qu)
 
 ## Science & Technology, Philosopy
 
@@ -25,11 +27,13 @@ Reading List 2017
 
 ## Technical
 
-1. ***CSS: The Definitive Guide***
-
 1. ***JavaScript: The Definitive Guide*** (4.2/5.0, this translation edition 3.9/5.0)
 
 1. ***Falsk Web Development***, 4.0/5.0
+
+1. ***Building Hypermedia APIs with HTML5 and Node***, 5.0/5.0
+
+1. ***CSS: The Definitive Guide***
 
 
 # Blocked
