@@ -1,7 +1,7 @@
 Reading List 2017
 ========================
 
-* finished: 21
+* finished: 22
 * ongoing:
 * blocked:
 
@@ -36,6 +36,8 @@ Reading List 2017
 1. **《乌合之众:群体心理研究》**  (***Psychologie Des Foules***), 4.5/5.0
 
 1. **《失控》** (***Out of Control***) 4.6/5.0 (this translation 4.4/5.0)
+
+1. **《国富论》** (***The Wealth of Nations***) 5.0/5.0
 
 ## Technical
 
