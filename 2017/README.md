@@ -1,7 +1,7 @@
 Reading List 2017
 ========================
 
-* finished: 22
+* finished: 23
 * ongoing:
 * blocked:
 
@@ -24,6 +24,8 @@ Reading List 2017
 1. **《胡适四十自述》** 4.6/5.0
 
 1. **《人间失格》**, 4.8/5.0
+
+1. **《万历十五年》** (***1587 - A Year of No Significance***)  5.0/5.0
 
 ## Science & Technology, Philosopy
 
