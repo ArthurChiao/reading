@@ -1,7 +1,7 @@
 Reading List 2017
 ========================
 
-* finished: 23
+* finished: 27
 * ongoing:
 * blocked:
 
@@ -26,6 +26,12 @@ Reading List 2017
 1. **《人间失格》**, 4.8/5.0
 
 1. **《万历十五年》** (***1587 - A Year of No Significance***)  5.0/5.0
+
+1. **《围城》** 5.0/5.0
+
+1. **《平凡的世界》**  5.0/5.0
+
+1. **《红顶商人胡雪岩》**  5.0/5.0
 
 ## Science & Technology, Philosopy
 
@@ -56,6 +62,8 @@ Reading List 2017
 1. ***Compilers***: Principles, Techniques and Tools, 5.0/5.0
 
 1. **《程序员的自我修养：链接、装载与库》** (a Chinese book on *Linkers, Loaders and Libraries*) 5.0/5.0
+
+1. ***Programming in Go***, 4.5/5.0
 
 
 # Blocked
