@@ -1,7 +1,7 @@
 Reading List 2017
 ========================
 
-* finished: 27
+* finished: 33
 * ongoing:
 * blocked:
 
@@ -31,7 +31,15 @@ Reading List 2017
 
 1. **《平凡的世界》**  5.0/5.0
 
+1. **《战争与和平》** (***War and Peace***)
+
 1. **《红顶商人胡雪岩》**  5.0/5.0
+
+1. **《大清国相》**  4.5/5.0
+
+1. **《月亮与六便士》** (***The Moon and Sixpence***) 4.5/5.0
+
+1. **《三国史话》** 4.8/5.0
 
 ## Science & Technology, Philosopy
 
@@ -46,6 +54,10 @@ Reading List 2017
 1. **《失控》** (***Out of Control***) 4.6/5.0 (this translation 4.4/5.0)
 
 1. **《国富论》** (***The Wealth of Nations***) 5.0/5.0
+
+1. **《为什么研究中国建筑》** (***Chinease Architecture Art and Artifacts***)  5.0/5.0
+
+1. **《证券投资基金》** 4.5/5.0
 
 ## Technical
 
