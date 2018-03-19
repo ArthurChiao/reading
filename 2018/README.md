@@ -19,11 +19,11 @@ Reading List 2018
 
 ## Science & Technology, Philosopy
 
-1. **《人类简史》** （***Sapiens: A Brief History of Human） 4.6/5.0
+1. **《人类简史》** （***Sapiens: A Brief History of Human***） 4.6/5.0
 
-1. **《未来简史》** （***Homo Deus: A Brief History of Tomorrow） 4.6/5.0
+1. **《未来简史》** （***Homo Deus: A Brief History of Tomorrow***） 4.6/5.0
 
-1. **《时间简史》** （***A Brief History of Time） 5.0/5.0
+1. **《时间简史》** （***A Brief History of Time***） 5.0/5.0
 
 ## Technical
 
