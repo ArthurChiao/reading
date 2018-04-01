@@ -1,7 +1,7 @@
 Reading List 2018
 ========================
 
-* finished: 8
+* finished: 9
 * ongoing:
 * blocked:
 
@@ -16,6 +16,8 @@ Reading List 2018
 1. **《白鹿原》**  4.8/5.0
 
 1. **《蒋勋说宋词》**  4.9/5.0
+
+1. **《动物农场》** (***Animal Farm***)  5.0/5.0
 
 ## Science & Technology, Philosopy
 
