@@ -19,6 +19,8 @@ Reading List 2018
 
 1. **《动物农场》** (***Animal Farm***)  5.0/5.0
 
+1. **《远山淡影》** (***A Pale View of Hills***) 4.6/5.0
+
 ## Science & Technology, Philosopy
 
 1. **《人类简史》** （***Sapiens: A Brief History of Human***） 4.6/5.0
