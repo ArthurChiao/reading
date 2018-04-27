@@ -1,7 +1,7 @@
 Reading List 2018
 ========================
 
-* finished: 11
+* finished: 12
 * ongoing:
 * blocked:
 
@@ -22,6 +22,8 @@ Reading List 2018
 1. **《远山淡影》** (***A Pale View of Hills***) 4.6/5.0
 
 1. **《我是猫》** (***I Am A Cat***) 3.9/5.0
+
+1. **《罗生门》** 3.9/5.0
 
 ## Science & Technology, Philosopy
 
