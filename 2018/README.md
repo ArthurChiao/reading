@@ -1,7 +1,7 @@
 Reading List 2018
 ========================
 
-* finished: 12
+* finished: 13
 * ongoing:
 * blocked:
 
@@ -24,6 +24,8 @@ Reading List 2018
 1. **《我是猫》** (***I Am A Cat***) 3.9/5.0
 
 1. **《罗生门》** 3.9/5.0
+
+1. **《变形记：卡夫卡精选》** 3.9/5.0
 
 ## Science & Technology, Philosopy
 
