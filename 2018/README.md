@@ -1,7 +1,7 @@
 Reading List 2018
 ========================
 
-* finished: 14
+* finished: 16
 * ongoing:
 * blocked:
 
@@ -28,6 +28,10 @@ Reading List 2018
 1. **《变形记：卡夫卡精选》** 3.9/5.0
 
 1. **《呼兰河传》** 4.7/5.0
+
+1. **《吾国与吾民》** (***My Country and My People***) 5.0/5.0
+
+1. **《一个人的朝圣》** (***The Unlikely Pilgrimace of Marolo Fry***) 3.9/5.0
 
 ## Science & Technology, Philosopy
 
