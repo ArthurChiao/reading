@@ -1,7 +1,7 @@
 Reading List 2018
 ========================
 
-* finished: 16
+* finished: 17
 * ongoing:
 * blocked:
 
@@ -43,6 +43,7 @@ Reading List 2018
 
 ## Technical
 
+1. **《大型网站技术架构》** 4.0/5.0
 
 # Blocked
 
