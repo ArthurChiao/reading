@@ -1,7 +1,7 @@
 Reading List 2018
 ========================
 
-* finished: 17
+* finished: 18
 * ongoing:
 * blocked:
 
@@ -44,6 +44,8 @@ Reading List 2018
 ## Technical
 
 1. **《大型网站技术架构》** 4.0/5.0
+
+1. **《分布式服务架构：原理、设计与实践》** 3.9/5.0
 
 # Blocked
 
