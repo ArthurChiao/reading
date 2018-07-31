@@ -1,7 +1,7 @@
 Reading List 2018
 ========================
 
-* finished: 18
+* finished: 20
 * ongoing:
 * blocked:
 
@@ -32,6 +32,10 @@ Reading List 2018
 1. **《吾国与吾民》** (***My Country and My People***) 5.0/5.0
 
 1. **《一个人的朝圣》** (***The Unlikely Pilgrimace of Marolo Fry***) 3.9/5.0
+
+1. **《人类群星璀璨时》** 4.0/5.0
+
+1. **《许三观卖血记》** 4.8/5.0
 
 ## Science & Technology, Philosopy
 
