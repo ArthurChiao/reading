@@ -1,7 +1,7 @@
 Reading List 2018
 ========================
 
-* finished: 22
+* finished: 25
 * ongoing:
 * blocked:
 
@@ -39,6 +39,8 @@ Reading List 2018
 
 1. **《台外论学》** 4.0/5.0
 
+1. **《白日将近》** (***The Ramains of The Day***) 4.8/5.0
+
 ## Science & Technology, Philosopy
 
 1. **《人类简史》** （***Sapiens: A Brief History of Human***） 4.6/5.0
@@ -47,6 +49,8 @@ Reading List 2018
 
 1. **《时间简史》** （***A Brief History of Time***） 5.0/5.0
 
+1. **《大国崛起》** 4.5/5.0
+
 ## Technical
 
 1. **《大型网站技术架构》** 4.0/5.0
@@ -54,6 +58,8 @@ Reading List 2018
 1. **《分布式服务架构：原理、设计与实践》** 3.9/5.0
 
 1. ***Learning Ceph***, 4.5/5.0
+
+1. ***Ceph Cookbook***, 4.0/5.0
 
 # Blocked
 
