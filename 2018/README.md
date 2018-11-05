@@ -1,7 +1,7 @@
 Reading List 2018
 ========================
 
-* finished: 25
+* finished: 27
 * ongoing:
 * blocked:
 
@@ -41,6 +41,8 @@ Reading List 2018
 
 1. **《白日将近》** (***The Ramains of The Day***) 4.8/5.0
 
+1. **《无可慰藉》** (***The Unconsoled***) 3.8/5.0
+
 ## Science & Technology, Philosopy
 
 1. **《人类简史》** （***Sapiens: A Brief History of Human***） 4.6/5.0
@@ -60,6 +62,8 @@ Reading List 2018
 1. ***Learning Ceph***, 4.5/5.0
 
 1. ***Ceph Cookbook***, 4.0/5.0
+
+1. ***Complete Nginx Cookbook***, 4.6/5.0
 
 # Blocked
 
