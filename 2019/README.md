@@ -1,7 +1,7 @@
 Reading List 2019
 ========================
 
-* finished: 9
+* finished: 11
 * ongoing:
 * blocked:
 
@@ -22,6 +22,8 @@ Reading List 2019
 1. ***BGP in the Data Center*** 4.8/5.0
 1. ***Internet Routing Architectures*** 4.8/5.0
 1. **《Segment Routing 详解：第一卷》** 4.0/5.0
+1. **Building Microservices** 4.4/5.0
+1. **Microservices AntiPatterns and Pitfalls** 4.4/5.0
 
 # By Quarter
 - [Q1](Q1.md)
