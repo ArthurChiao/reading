@@ -1,7 +1,7 @@
 Reading List 2019
 ========================
 
-* finished: 11
+* finished: 14
 * ongoing:
 * blocked:
 
@@ -12,6 +12,7 @@ Reading List 2019
 1. **《局外人》** /5.0
 1. **《刀锋》** 4.5/5.0
 1. **《老人与海》** 4.5/5.0
+1. **《六神磊磊读唐诗》** 4.2/5.0
 
 ## Science & Technology, Philosopy
 
@@ -24,6 +25,8 @@ Reading List 2019
 1. **《Segment Routing 详解：第一卷》** 4.0/5.0
 1. **Building Microservices** 4.4/5.0
 1. **Microservices AntiPatterns and Pitfalls** 4.4/5.0
+1. ***Introduction to OKRs*** 4.2/5.0
+1. ***Everything is Distributed*** 4.0/5.0
 
 # By Quarter
 - [Q1](Q1.md)
